@@ -32,7 +32,7 @@ class DataValidationConfig:
                                                DATA_VALIDATION_DRIFT_REPORT_FILE_NAME)
     
 
-'''
+
 
 @dataclass
 class DataTransformationConfig:
@@ -46,7 +46,7 @@ class DataTransformationConfig:
                                                      PREPROCSSING_OBJECT_FILE_NAME)
     
 
-
+'''
 
 @dataclass
 class ModelTrainerConfig:
