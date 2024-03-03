@@ -46,7 +46,7 @@ class DataTransformationConfig:
                                                      PREPROCSSING_OBJECT_FILE_NAME)
     
 
-'''
+
 
 @dataclass
 class ModelTrainerConfig:
@@ -55,4 +55,3 @@ class ModelTrainerConfig:
     expected_accuracy: float = MODEL_TRAINER_EXPECTED_SCORE
     model_config_file_path: str = MODEL_TRAINER_MODEL_CONFIG_FILE_PATH
     
-    '''
