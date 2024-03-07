@@ -24,3 +24,8 @@ ipython //to open python terminal
 
 pip install -r requirements.txt
 '''
+'''
+export mogodb_url = “” 
+export AWS_ACCES_KEY_ID = ""
+export AWS_SECRET_ACCESS_KEY_ID = ""
+'''
